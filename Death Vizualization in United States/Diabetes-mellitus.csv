@@ -1,0 +1,766 @@
+"state","deaths","year"
+"Alabama","2313",1999
+"Alaska","294",1999
+"Arizona","2214",1999
+"Arkansas","1287",1999
+"California","9198",1999
+"Colorado","1519",1999
+"Connecticut","1034",1999
+"Delaware","267",1999
+"District of Columbia","161",1999
+"Florida","5961",1999
+"Georgia","3078",1999
+"Hawaii","293",1999
+"Idaho","597",1999
+"Illinois","4125",1999
+"Indiana","2309",1999
+"Iowa","1123",1999
+"Kansas","1126",1999
+"Kentucky","1730",1999
+"Louisiana","1940",1999
+"Maine","458",1999
+"Maryland","1296",1999
+"Massachusetts","1303",1999
+"Michigan","3188",1999
+"Minnesota","1772",1999
+"Mississippi","1642",1999
+"Missouri","2465",1999
+"Montana","461",1999
+"Nebraska","668",1999
+"Nevada","710",1999
+"New Hampshire","329",1999
+"New Jersey","2227",1999
+"New Mexico","969",1999
+"New York","4797",1999
+"North Carolina","3290",1999
+"North Dakota","267",1999
+"Ohio","3630",1999
+"Oklahoma","1609",1999
+"Oregon","1199",1999
+"Pennsylvania","4614",1999
+"Rhode Island","243",1999
+"South Carolina","1901",1999
+"South Dakota","351",1999
+"Tennessee","2677",1999
+"Texas","7227",1999
+"Utah","650",1999
+"Vermont","209",1999
+"Virginia","2214",1999
+"Washington","1914",1999
+"West Virginia","798",1999
+"Wisconsin","1955",1999
+"Wyoming","258",1999
+"Alabama","2093",2000
+"Alaska","343",2000
+"Arizona","2326",2000
+"Arkansas","1267",2000
+"California","8577",2000
+"Colorado","1702",2000
+"Connecticut","1175",2000
+"Delaware","290",2000
+"District of Columbia","204",2000
+"Florida","6267",2000
+"Georgia","3103",2000
+"Hawaii","343",2000
+"Idaho","518",2000
+"Illinois","4041",2000
+"Indiana","2139",2000
+"Iowa","1070",2000
+"Kansas","1054",2000
+"Kentucky","1838",2000
+"Louisiana","2006",2000
+"Maine","407",2000
+"Maryland","1182",2000
+"Massachusetts","1357",2000
+"Michigan","3220",2000
+"Minnesota","1711",2000
+"Mississippi","1653",2000
+"Missouri","2398",2000
+"Montana","495",2000
+"Nebraska","640",2000
+"Nevada","730",2000
+"New Hampshire","321",2000
+"New Jersey","2284",2000
+"New Mexico","995",2000
+"New York","4244",2000
+"North Carolina","3525",2000
+"North Dakota","248",2000
+"Ohio","3492",2000
+"Oklahoma","1566",2000
+"Oregon","1248",2000
+"Pennsylvania","4583",2000
+"Rhode Island","235",2000
+"South Carolina","1974",2000
+"South Dakota","321",2000
+"Tennessee","2743",2000
+"Texas","7407",2000
+"Utah","665",2000
+"Vermont","234",2000
+"Virginia","2396",2000
+"Washington","2049",2000
+"West Virginia","817",2000
+"Wisconsin","2159",2000
+"Wyoming","245",2000
+"Alabama","2211",2001
+"Alaska","345",2001
+"Arizona","2475",2001
+"Arkansas","1277",2001
+"California","8132",2001
+"Colorado","1720",2001
+"Connecticut","1056",2001
+"Delaware","290",2001
+"District of Columbia","223",2001
+"Florida","6969",2001
+"Georgia","3396",2001
+"Hawaii","372",2001
+"Idaho","568",2001
+"Illinois","4077",2001
+"Indiana","2185",2001
+"Iowa","1051",2001
+"Kansas","1156",2001
+"Kentucky","1990",2001
+"Louisiana","2029",2001
+"Maine","490",2001
+"Maryland","1339",2001
+"Massachusetts","1506",2001
+"Michigan","3291",2001
+"Minnesota","1797",2001
+"Mississippi","1571",2001
+"Missouri","2455",2001
+"Montana","468",2001
+"Nebraska","633",2001
+"Nevada","739",2001
+"New Hampshire","374",2001
+"New Jersey","2405",2001
+"New Mexico","1020",2001
+"New York","4982",2001
+"North Carolina","3438",2001
+"North Dakota","238",2001
+"Ohio","3857",2001
+"Oklahoma","1700",2001
+"Oregon","1313",2001
+"Pennsylvania","4552",2001
+"Rhode Island","293",2001
+"South Carolina","1960",2001
+"South Dakota","382",2001
+"Tennessee","2709",2001
+"Texas","7920",2001
+"Utah","643",2001
+"Vermont","230",2001
+"Virginia","2432",2001
+"Washington","2072",2001
+"West Virginia","834",2001
+"Wisconsin","2100",2001
+"Wyoming","272",2001
+"Alabama","2228",2002
+"Alaska","346",2002
+"Arizona","2577",2002
+"Arkansas","1311",2002
+"California","10107",2002
+"Colorado","1812",2002
+"Connecticut","1182",2002
+"Delaware","292",2002
+"District of Columbia","200",2002
+"Florida","7396",2002
+"Georgia","3333",2002
+"Hawaii","393",2002
+"Idaho","611",2002
+"Illinois","4222",2002
+"Indiana","2148",2002
+"Iowa","1093",2002
+"Kansas","1139",2002
+"Kentucky","2090",2002
+"Louisiana","2115",2002
+"Maine","511",2002
+"Maryland","1332",2002
+"Massachusetts","1413",2002
+"Michigan","3285",2002
+"Minnesota","1928",2002
+"Mississippi","1642",2002
+"Missouri","2641",2002
+"Montana","524",2002
+"Nebraska","762",2002
+"Nevada","860",2002
+"New Hampshire","357",2002
+"New Jersey","2599",2002
+"New Mexico","1105",2002
+"New York","4663",2002
+"North Carolina","3700",2002
+"North Dakota","246",2002
+"Ohio","4146",2002
+"Oklahoma","1580",2002
+"Oregon","1397",2002
+"Pennsylvania","4728",2002
+"Rhode Island","277",2002
+"South Carolina","1972",2002
+"South Dakota","348",2002
+"Tennessee","2744",2002
+"Texas","8232",2002
+"Utah","714",2002
+"Vermont","240",2002
+"Virginia","2479",2002
+"Washington","2203",2002
+"West Virginia","956",2002
+"Wisconsin","2274",2002
+"Wyoming","289",2002
+"Alabama","2179",2003
+"Alaska","321",2003
+"Arizona","2697",2003
+"Arkansas","1304",2003
+"California","10471",2003
+"Colorado","1806",2003
+"Connecticut","1112",2003
+"Delaware","287",2003
+"District of Columbia","233",2003
+"Florida","7919",2003
+"Georgia","3528",2003
+"Hawaii","415",2003
+"Idaho","605",2003
+"Illinois","3942",2003
+"Indiana","2196",2003
+"Iowa","1164",2003
+"Kansas","1089",2003
+"Kentucky","2270",2003
+"Louisiana","2208",2003
+"Maine","516",2003
+"Maryland","1432",2003
+"Massachusetts","1421",2003
+"Michigan","3324",2003
+"Minnesota","1912",2003
+"Mississippi","1656",2003
+"Missouri","2786",2003
+"Montana","518",2003
+"Nebraska","696",2003
+"Nevada","911",2003
+"New Hampshire","405",2003
+"New Jersey","2371",2003
+"New Mexico","1227",2003
+"New York","4708",2003
+"North Carolina","3835",2003
+"North Dakota","282",2003
+"Ohio","3757",2003
+"Oklahoma","1748",2003
+"Oregon","1401",2003
+"Pennsylvania","5014",2003
+"Rhode Island","393",2003
+"South Carolina","1941",2003
+"South Dakota","406",2003
+"Tennessee","3004",2003
+"Texas","8425",2003
+"Utah","702",2003
+"Vermont","235",2003
+"Virginia","2644",2003
+"Washington","2239",2003
+"West Virginia","1004",2003
+"Wisconsin","2345",2003
+"Wyoming","273",2003
+"Alabama","2403",2004
+"Alaska","326",2004
+"Arizona","2770",2004
+"Arkansas","1406",2004
+"California","10633",2004
+"Colorado","1810",2004
+"Connecticut","1261",2004
+"Delaware","294",2004
+"District of Columbia","219",2004
+"Florida","8229",2004
+"Georgia","3667",2004
+"Hawaii","390",2004
+"Idaho","593",2004
+"Illinois","4133",2004
+"Indiana","2395",2004
+"Iowa","1108",2004
+"Kansas","1144",2004
+"Kentucky","2260",2004
+"Louisiana","2300",2004
+"Maine","480",2004
+"Maryland","1412",2004
+"Massachusetts","1366",2004
+"Michigan","3312",2004
+"Minnesota","1867",2004
+"Mississippi","1703",2004
+"Missouri","2728",2004
+"Montana","535",2004
+"Nebraska","743",2004
+"Nevada","1021",2004
+"New Hampshire","445",2004
+"New Jersey","2324",2004
+"New Mexico","1223",2004
+"New York","4530",2004
+"North Carolina","4019",2004
+"North Dakota","274",2004
+"Ohio","4234",2004
+"Oklahoma","1947",2004
+"Oregon","1444",2004
+"Pennsylvania","5200",2004
+"Rhode Island","298",2004
+"South Carolina","2094",2004
+"South Dakota","416",2004
+"Tennessee","3156",2004
+"Texas","8323",2004
+"Utah","697",2004
+"Vermont","253",2004
+"Virginia","2630",2004
+"Washington","2341",2004
+"West Virginia","1110",2004
+"Wisconsin","2303",2004
+"Wyoming","243",2004
+"Alabama","2395",2005
+"Alaska","313",2005
+"Arizona","3150",2005
+"Arkansas","1329",2005
+"California","11129",2005
+"Colorado","1947",2005
+"Connecticut","1134",2005
+"Delaware","293",2005
+"District of Columbia","207",2005
+"Florida","8868",2005
+"Georgia","3762",2005
+"Hawaii","436",2005
+"Idaho","606",2005
+"Illinois","4182",2005
+"Indiana","2480",2005
+"Iowa","1202",2005
+"Kansas","1149",2005
+"Kentucky","2405",2005
+"Louisiana","3072",2005
+"Maine","579",2005
+"Maryland","1376",2005
+"Massachusetts","1907",2005
+"Michigan","3451",2005
+"Minnesota","1922",2005
+"Mississippi","1936",2005
+"Missouri","2848",2005
+"Montana","524",2005
+"Nebraska","704",2005
+"Nevada","1104",2005
+"New Hampshire","477",2005
+"New Jersey","2561",2005
+"New Mexico","1267",2005
+"New York","4645",2005
+"North Carolina","4123",2005
+"North Dakota","287",2005
+"Ohio","4438",2005
+"Oklahoma","2005",2005
+"Oregon","1469",2005
+"Pennsylvania","5446",2005
+"Rhode Island","334",2005
+"South Carolina","2272",2005
+"South Dakota","402",2005
+"Tennessee","3147",2005
+"Texas","8598",2005
+"Utah","743",2005
+"Vermont","272",2005
+"Virginia","2638",2005
+"Washington","2543",2005
+"West Virginia","940",2005
+"Wisconsin","2490",2005
+"Wyoming","302",2005
+"Alabama","2506",2006
+"Alaska","316",2006
+"Arizona","3352",2006
+"Arkansas","1415",2006
+"California","11375",2006
+"Colorado","1917",2006
+"Connecticut","1302",2006
+"Delaware","329",2006
+"District of Columbia","224",2006
+"Florida","8917",2006
+"Georgia","3879",2006
+"Hawaii","441",2006
+"Idaho","682",2006
+"Illinois","4451",2006
+"Indiana","2480",2006
+"Iowa","1188",2006
+"Kansas","1198",2006
+"Kentucky","2446",2006
+"Louisiana","2422",2006
+"Maine","572",2006
+"Maryland","1456",2006
+"Massachusetts","2214",2006
+"Michigan","3590",2006
+"Minnesota","1919",2006
+"Mississippi","1856",2006
+"Missouri","3009",2006
+"Montana","558",2006
+"Nebraska","683",2006
+"Nevada","1091",2006
+"New Hampshire","460",2006
+"New Jersey","2590",2006
+"New Mexico","1297",2006
+"New York","5235",2006
+"North Carolina","4156",2006
+"North Dakota","275",2006
+"Ohio","4821",2006
+"Oklahoma","2039",2006
+"Oregon","1586",2006
+"Pennsylvania","5299",2006
+"Rhode Island","434",2006
+"South Carolina","2315",2006
+"South Dakota","452",2006
+"Tennessee","3307",2006
+"Texas","9140",2006
+"Utah","715",2006
+"Vermont","301",2006
+"Virginia","2703",2006
+"Washington","2679",2006
+"West Virginia","1177",2006
+"Wisconsin","2524",2006
+"Wyoming","306",2006
+"Alabama","2542",2007
+"Alaska","354",2007
+"Arizona","3161",2007
+"Arkansas","1391",2007
+"California","11614",2007
+"Colorado","2056",2007
+"Connecticut","1343",2007
+"Delaware","309",2007
+"District of Columbia","193",2007
+"Florida","9113",2007
+"Georgia","4012",2007
+"Hawaii","470",2007
+"Idaho","641",2007
+"Illinois","4367",2007
+"Indiana","2499",2007
+"Iowa","1252",2007
+"Kansas","1205",2007
+"Kentucky","2372",2007
+"Louisiana","2466",2007
+"Maine","584",2007
+"Maryland","1480",2007
+"Massachusetts","2139",2007
+"Michigan","3764",2007
+"Minnesota","2066",2007
+"Mississippi","1808",2007
+"Missouri","2975",2007
+"Montana","614",2007
+"Nebraska","674",2007
+"Nevada","1212",2007
+"New Hampshire","527",2007
+"New Jersey","2425",2007
+"New Mexico","1329",2007
+"New York","5160",2007
+"North Carolina","4389",2007
+"North Dakota","279",2007
+"Ohio","4922",2007
+"Oklahoma","2149",2007
+"Oregon","1646",2007
+"Pennsylvania","5568",2007
+"Rhode Island","416",2007
+"South Carolina","2364",2007
+"South Dakota","366",2007
+"Tennessee","3257",2007
+"Texas","9392",2007
+"Utah","811",2007
+"Vermont","303",2007
+"Virginia","2931",2007
+"Washington","2637",2007
+"West Virginia","1241",2007
+"Wisconsin","2619",2007
+"Wyoming","299",2007
+"Alabama","2509",2008
+"Alaska","332",2008
+"Arizona","2956",2008
+"Arkansas","1477",2008
+"California","10761",2008
+"Colorado","2172",2008
+"Connecticut","1386",2008
+"Delaware","352",2008
+"District of Columbia","160",2008
+"Florida","8939",2008
+"Georgia","3774",2008
+"Hawaii","406",2008
+"Idaho","649",2008
+"Illinois","4218",2008
+"Indiana","2558",2008
+"Iowa","1266",2008
+"Kansas","1174",2008
+"Kentucky","2379",2008
+"Louisiana","2409",2008
+"Maine","628",2008
+"Maryland","1465",2008
+"Massachusetts","2040",2008
+"Michigan","3685",2008
+"Minnesota","2010",2008
+"Mississippi","1693",2008
+"Missouri","2997",2008
+"Montana","592",2008
+"Nebraska","714",2008
+"Nevada","1134",2008
+"New Hampshire","488",2008
+"New Jersey","2436",2008
+"New Mexico","1366",2008
+"New York","5042",2008
+"North Carolina","4313",2008
+"North Dakota","342",2008
+"Ohio","5093",2008
+"Oklahoma","2119",2008
+"Oregon","1674",2008
+"Pennsylvania","5787",2008
+"Rhode Island","480",2008
+"South Carolina","2285",2008
+"South Dakota","381",2008
+"Tennessee","3250",2008
+"Texas","9189",2008
+"Utah","881",2008
+"Vermont","306",2008
+"Virginia","2820",2008
+"Washington","2727",2008
+"West Virginia","1253",2008
+"Wisconsin","2484",2008
+"Wyoming","351",2008
+"Alabama","2351",2009
+"Alaska","340",2009
+"Arizona","2919",2009
+"Arkansas","1473",2009
+"California","10860",2009
+"Colorado","2144",2009
+"Connecticut","1293",2009
+"Delaware","333",2009
+"District of Columbia","145",2009
+"Florida","8746",2009
+"Georgia","3812",2009
+"Hawaii","436",2009
+"Idaho","670",2009
+"Illinois","3961",2009
+"Indiana","2577",2009
+"Iowa","1255",2009
+"Kansas","1273",2009
+"Kentucky","2394",2009
+"Louisiana","2142",2009
+"Maine","602",2009
+"Maryland","1415",2009
+"Massachusetts","2076",2009
+"Michigan","3682",2009
+"Minnesota","2037",2009
+"Mississippi","1658",2009
+"Missouri","2939",2009
+"Montana","619",2009
+"Nebraska","683",2009
+"Nevada","1025",2009
+"New Hampshire","482",2009
+"New Jersey","1875",2009
+"New Mexico","1281",2009
+"New York","4891",2009
+"North Carolina","4136",2009
+"North Dakota","324",2009
+"Ohio","4012",2009
+"Oklahoma","2284",2009
+"Oregon","1598",2009
+"Pennsylvania","5477",2009
+"Rhode Island","428",2009
+"South Carolina","2229",2009
+"South Dakota","349",2009
+"Tennessee","3231",2009
+"Texas","9349",2009
+"Utah","899",2009
+"Vermont","308",2009
+"Virginia","2622",2009
+"Washington","2696",2009
+"West Virginia","942",2009
+"Wisconsin","2449",2009
+"Wyoming","299",2009
+"Alabama","2394",2010
+"Alaska","366",2010
+"Arizona","3018",2010
+"Arkansas","1461",2010
+"California","10435",2010
+"Colorado","2106",2010
+"Connecticut","1337",2010
+"Delaware","357",2010
+"District of Columbia","212",2010
+"Florida","8875",2010
+"Georgia","3745",2010
+"Hawaii","432",2010
+"Idaho","654",2010
+"Illinois","3997",2010
+"Indiana","2534",2010
+"Iowa","1273",2010
+"Kansas","1317",2010
+"Kentucky","2632",2010
+"Louisiana","1999",2010
+"Maine","540",2010
+"Maryland","1446",2010
+"Massachusetts","2060",2010
+"Michigan","3770",2010
+"Minnesota","2103",2010
+"Mississippi","1685",2010
+"Missouri","2975",2010
+"Montana","548",2010
+"Nebraska","700",2010
+"Nevada","1088",2010
+"New Hampshire","517",2010
+"New Jersey","2486",2010
+"New Mexico","1233",2010
+"New York","5004",2010
+"North Carolina","4144",2010
+"North Dakota","285",2010
+"Ohio","5124",2010
+"Oklahoma","2288",2010
+"Oregon","1566",2010
+"Pennsylvania","5751",2010
+"Rhode Island","475",2010
+"South Carolina","2274",2010
+"South Dakota","393",2010
+"Tennessee","3539",2010
+"Texas","9212",2010
+"Utah","970",2010
+"Vermont","298",2010
+"Virginia","2527",2010
+"Washington","2609",2010
+"West Virginia","1234",2010
+"Wisconsin","2525",2010
+"Wyoming","346",2010
+"Alabama","2662",2011
+"Alaska","385",2011
+"Arizona","3096",2011
+"Arkansas","1510",2011
+"California","10824",2011
+"Colorado","2330",2011
+"Connecticut","1339",2011
+"Delaware","338",2011
+"District of Columbia","185",2011
+"Florida","8901",2011
+"Georgia","3785",2011
+"Hawaii","517",2011
+"Idaho","710",2011
+"Illinois","4166",2011
+"Indiana","2699",2011
+"Iowa","1369",2011
+"Kansas","1333",2011
+"Kentucky","2608",2011
+"Louisiana","2091",2011
+"Maine","574",2011
+"Maryland","1569",2011
+"Massachusetts","2224",2011
+"Michigan","3951",2011
+"Minnesota","2319",2011
+"Mississippi","1724",2011
+"Missouri","3169",2011
+"Montana","609",2011
+"Nebraska","678",2011
+"Nevada","1155",2011
+"New Hampshire","553",2011
+"New Jersey","2685",2011
+"New Mexico","1336",2011
+"New York","5537",2011
+"North Carolina","4297",2011
+"North Dakota","298",2011
+"Ohio","5275",2011
+"Oklahoma","2261",2011
+"Oregon","1722",2011
+"Pennsylvania","6216",2011
+"Rhode Island","541",2011
+"South Carolina","2285",2011
+"South Dakota","411",2011
+"Tennessee","3485",2011
+"Texas","9410",2011
+"Utah","1058",2011
+"Vermont","301",2011
+"Virginia","2809",2011
+"Washington","2709",2011
+"West Virginia","1432",2011
+"Wisconsin","2680",2011
+"Wyoming","317",2011
+"Alabama","2283",2012
+"Alaska","368",2012
+"Arizona","3029",2012
+"Arkansas","1521",2012
+"California","10906",2012
+"Colorado","2403",2012
+"Connecticut","1392",2012
+"Delaware","374",2012
+"District of Columbia","194",2012
+"Florida","8770",2012
+"Georgia","3731",2012
+"Hawaii","458",2012
+"Idaho","699",2012
+"Illinois","4488",2012
+"Indiana","2776",2012
+"Iowa","1369",2012
+"Kansas","1319",2012
+"Kentucky","2741",2012
+"Louisiana","2362",2012
+"Maine","602",2012
+"Maryland","1696",2012
+"Massachusetts","2195",2012
+"Michigan","3805",2012
+"Minnesota","2301",2012
+"Mississippi","1627",2012
+"Missouri","3002",2012
+"Montana","572",2012
+"Nebraska","792",2012
+"Nevada","1177",2012
+"New Hampshire","573",2012
+"New Jersey","2990",2012
+"New Mexico","1351",2012
+"New York","5786",2012
+"North Carolina","4281",2012
+"North Dakota","318",2012
+"Ohio","5420",2012
+"Oklahoma","2388",2012
+"Oregon","1709",2012
+"Pennsylvania","6334",2012
+"Rhode Island","525",2012
+"South Carolina","2336",2012
+"South Dakota","426",2012
+"Tennessee","3513",2012
+"Texas","9313",2012
+"Utah","1097",2012
+"Vermont","333",2012
+"Virginia","2883",2012
+"Washington","2760",2012
+"West Virginia","1371",2012
+"Wisconsin","2825",2012
+"Wyoming","308",2012
+"Alabama","2329",2013
+"Alaska","353",2013
+"Arizona","3349",2013
+"Arkansas","1373",2013
+"California","11538",2013
+"Colorado","2422",2013
+"Connecticut","1582",2013
+"Delaware","412",2013
+"District of Columbia","216",2013
+"Florida","8736",2013
+"Georgia","3727",2013
+"Hawaii","467",2013
+"Idaho","776",2013
+"Illinois","4511",2013
+"Indiana","2898",2013
+"Iowa","1422",2013
+"Kansas","1359",2013
+"Kentucky","2513",2013
+"Louisiana","2333",2013
+"Maine","644",2013
+"Maryland","1732",2013
+"Massachusetts","2393",2013
+"Michigan","4225",2013
+"Minnesota","2405",2013
+"Mississippi","1692",2013
+"Missouri","2981",2013
+"Montana","623",2013
+"Nebraska","703",2013
+"Nevada","1184",2013
+"New Hampshire","619",2013
+"New Jersey","3028",2013
+"New Mexico","1245",2013
+"New York","5927",2013
+"North Carolina","4324",2013
+"North Dakota","326",2013
+"Ohio","5497",2013
+"Oklahoma","2474",2013
+"Oregon","1755",2013
+"Pennsylvania","6359",2013
+"Rhode Island","537",2013
+"South Carolina","2287",2013
+"South Dakota","425",2013
+"Tennessee","3540",2013
+"Texas","9395",2013
+"Utah","1103",2013
+"Vermont","352",2013
+"Virginia","2951",2013
+"Washington","2826",2013
+"West Virginia","1395",2013
+"Wisconsin","2969",2013
+"Wyoming","325",2013
